@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - InputCamera
+  - BottomTrigger
+  - LeftTrigger
+  - RightTrigger
+  - PP
+  - SpawnTrigger
+  - FinishLine
+  - UI_Camera
+  - Coin
+  - Pipe
+  - Plane
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Post-Processing
+  - 
+  - TouchInput
+  - Text
+  - PP
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Text
+    uniqueID: 1539482017
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
