@@ -183,17 +183,9 @@ public class PlayerController : MonoBehaviour
 
         if (fakeRestart)
         {
-            if (!ShowAds.skippedLevel)
-            {
-                StartCoroutine(FadeInLevelPassed());
-                StartCoroutine(LevelFinished(true));
-                StartCoroutine(FadeProgressOut());
-            }
-            else
-            {
-                StartCoroutine(LevelFinished(false));
-                ShowAds.skippedLevel = false;
-            }
+            StartCoroutine(FadeInLevelPassed());
+            StartCoroutine(LevelFinished(true));
+            StartCoroutine(FadeProgressOut());
             fakeRestart = false;
         }
 

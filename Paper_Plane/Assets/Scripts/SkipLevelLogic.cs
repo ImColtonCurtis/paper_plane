@@ -23,8 +23,6 @@ public class SkipLevelLogic : MonoBehaviour
 
     void OnTouchUp()
     {
-        if (pressedDown)
-            ShowAds.shouldShowRewardedAd = true;
         pressedDown = false;
     }
 
