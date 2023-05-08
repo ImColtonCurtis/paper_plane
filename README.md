@@ -5,7 +5,7 @@
 
 The game is simple to understand and play. Players control the paper plane by tapping and dragging their finger on the screen to steer it in any direction. The objective is to collect as many coins as possible while avoiding obstacles such as trees, buildings, and other obstacles that appear in the path.
 ## Features
-
+ 
     Simple and intuitive tap and drag mechanics.
     Three-dimensional graphics for a realistic experience.
     Various obstacles and challenges to keep the game engaging.
