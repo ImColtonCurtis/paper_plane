@@ -14,6 +14,4 @@ The game is simple to understand and play. Players control the paper plane by ta
 
 ## Contact
 
-If you have any questions or concerns regarding Paper Planes 3D, please contact us at nonothinggames@gmail.com. We appreciate any feedback or suggestions to improve the game.
-
-Download now and start flying high with Paper Planes 3D!
+If you have any questions or concerns regarding Paper Planes 3D, please contact us at imcoltoncurtis@gmail.com. We appreciate any feedback or suggestions to improve the game.
